@@ -1,47 +1,79 @@
 ---
 sidebar_position: 1
+
+id: main
+slug: /
 ---
 
-# Tutorial Intro
+# Lola Care Instructions
 
-Let's discover **Docusaurus in less than 5 minutes**.
+![banner](pathname:///img/yy.png)
+Lola is the queen of the universe. It is detrimental to make sure she is comfortable anytime time anywhere at any cost.
+Please make sure you follow the following instructions otherwise your future won't be guarenteed.
+:::info
+Lola has bad hearing and weak hind legs. Some people say she is more than 200 year old.
+:::
 
-## Getting Started
+## Favorite Food
 
-Get started by **creating a new site**.
+- Delicious chicken
+- Fresh blueberries
+- Shredded Cheese
+- Healthy pasta with tomato sauce
+- Home grown organic greens
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Allergy
 
-### What you'll need
+- Sea food
+- Citrus fruits
+- Big ugly guys
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## How to feed
 
-## Generate a new site
+### Breakfast
 
-Generate a new Docusaurus site using the **classic template**.
+Breakfast is the most important meal of the day. We need to make sure Lola gets her nutricient from this meal.
+However, breakfast for Lola could be tricky and complicated. Her stomach is the most sensitive in the morning.
+We need to make sure she eats her medicine and food. Here are the steps:
 
-The classic template will automatically be added to your project after you run the command:
+1. Take one spoon full of chicken from the container.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+2. Put the chicken in the bowl. add a little bit of water, just enough to make the chicken moist.
+   ![banner](pathname:///img/PXL_20211029_122952443.jpg)
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+3. Put the bowl in microwave for 7 seconds. It should make the chicken lukewarm.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+4. Open the medicine pouch, mix the medeicine powder in the bowl. Make sure it mixes well.
 
-## Start your site
+5. Add 3/4 of 1/4 cup of kebbles on top of the chicken.
 
-Run the development server:
+6. Put the bowl down and tell the queen Lola it's ready.
 
-```bash
-cd my-website
-npm run start
-```
+7. Make sure she has fresh water in her water bowl.
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+:::tip
+It can make Lola happy if you pat her when she is making digesting noise.
+:::
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+8. Wait for 20 mins, come back to greet Lola with 2 blueberries.
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+9. After Lola finishes the breakfast, make sure she can take a walk and respond to the natural calling.
+
+:::tip
+She likes to take a nap on your laps after the breafast routine
+:::
+
+## Lunch & Dinner
+
+Lunch and dinner are easier than breakfast. Or are they? Here are the steps:
+
+1. Put one 1/4 cup of kebbles in the bowel.
+2. Check her water bowl to make sure she has fresh water
+3. Wait for 20 mins. Give her two blueberries.
+4. After Lola finishes the meal, make sure she can take a walk and respond to the natural calling.
+
+:::caution
+You can feed her some treat after meals but do not feed her any sea food!!!
+:::
+
+##
