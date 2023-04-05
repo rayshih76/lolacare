@@ -8,6 +8,7 @@ slug: /
 # Lola Care Instructions
 
 ![banner](pathname:///img/yy.png)
+
 Lola is the queen of the universe. It is detrimental to make sure she is comfortable anytime time anywhere at any cost.
 Please make sure you follow the following instructions otherwise your future won't be guarenteed.
 :::info
