@@ -12,6 +12,7 @@ Lola is the queen of the universe. It is detrimental to make sure she is comfort
 Please make sure you follow the following instructions otherwise your future won't be guarenteed.
 :::info
 Lola has bad hearing and weak hind legs. Some people say she is more than 200 year old.
+
 If she misses the peepad, she didn't mean it, she really tried.
 :::
 
