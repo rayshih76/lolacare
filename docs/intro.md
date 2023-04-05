@@ -12,6 +12,7 @@ Lola is the queen of the universe. It is detrimental to make sure she is comfort
 Please make sure you follow the following instructions otherwise your future won't be guarenteed.
 :::info
 Lola has bad hearing and weak hind legs. Some people say she is more than 200 year old.
+If she misses the peepad, she didn't mean it, she really tried.
 :::
 
 ## Favorite Food
@@ -24,7 +25,7 @@ Lola has bad hearing and weak hind legs. Some people say she is more than 200 ye
 
 ## Allergy
 
-- Sea food
+- Seafood
 - Citrus fruits
 - Big ugly guys
 
@@ -32,48 +33,43 @@ Lola has bad hearing and weak hind legs. Some people say she is more than 200 ye
 
 ### Breakfast
 
+Time: Around 7am
 Breakfast is the most important meal of the day. We need to make sure Lola gets her nutricient from this meal.
 However, breakfast for Lola could be tricky and complicated. Her stomach is the most sensitive in the morning.
-We need to make sure she eats her medicine and food. Here are the steps:
-
-1. Take one spoon full of chicken from the container.
-
-2. Put the chicken in the bowl. add a little bit of water, just enough to make the chicken moist.
-   ![banner](pathname:///img/PXL_20211029_122952443.jpg)
-
-3. Put the bowl in microwave for 7 seconds. It should make the chicken lukewarm.
-
-4. Open the medicine pouch, mix the medeicine powder in the bowl. Make sure it mixes well.
-
-5. Add 3/4 of 1/4 cup of kebbles on top of the chicken.
-
-6. Put the bowl down and tell the queen Lola it's ready.
-
-7. Make sure she has fresh water in her water bowl.
-
-:::tip
-It can make Lola happy if you pat her when she is making digesting noise.
+We need to make sure she eats her medicine and food.
+:::warning
+Sometimes Lola has stomach problem in the morning, you can hear her stomach growling, and she won't be able to eat.
+If that happens, try to hand feed her tiny chicken pieces slowly. Her stomach should go back to normal afterward.
 :::
 
-8. Wait for 20 mins, come back to greet Lola with 2 blueberries.
+Here are the steps:
 
-9. After Lola finishes the breakfast, make sure she can take a walk and respond to the natural calling.
+1. Take one teaspoon of chicken from the container. Warm it up in the microwave for 7~8 seconds
+   :::tip
+   Add little bit of water in the chicken before microwave it to keep it moist
+   :::
 
-:::tip
-She likes to take a nap on your laps after the breafast routine
-:::
+      ![banner](pathname:///img/PXL_20211029_122952443.jpg)
+
+2. Grind one liver pill and mix it in the chicken
+
+3. Add 1/4 of cerenia and half of the quarter cup kebbles on top of the chicken
+
+4. Make sure she has fresh water in her water bowl.
 
 ## Lunch & Dinner
 
-Lunch and dinner are easier than breakfast. Or are they? Here are the steps:
+Time: Aroung 12pm for lunch. 6pm for dinner.
+Lunch and dinner are easier than breakfast. Or are they?
+Here are the steps:
 
 1. Put one 1/4 cup of kebbles in the bowel.
 2. Check her water bowl to make sure she has fresh water
-3. Wait for 20 mins. Give her two blueberries.
-4. After Lola finishes the meal, make sure she can take a walk and respond to the natural calling.
 
-:::caution
-You can feed her some treat after meals but do not feed her any sea food!!!
-:::
+## Desert
 
-##
+Who doesn't love desert after meals? So does Lola!
+Lola always up for some blueberries after each meal.
+So please feed her 3 to 4 blueberries after breakfast, lunch, and dinner.
+Please also feed her some blueberries in the evening to prevent the stomach problem in the next morning.
+YOu are also welcome to feed her treats every now and then if she likes it.
