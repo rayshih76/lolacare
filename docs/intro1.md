@@ -2,10 +2,12 @@
 sidebar_position: 1
 
 id: main
-slug: /e
+slug: /
 ---
 
 # Lola Care Instructions
+
+![banner](pathname:///img/lolarest.JPG)
 
 Lola is the queen of the universe. It is important to make sure she is comfortable anytime time anywhere at any cost.
 
@@ -46,16 +48,37 @@ If that happens, try to hand feed her tiny chicken pieces slowly. Her stomach sh
 Here are the steps:
 
 1. Take one teaspoon of chicken from the container.
-2. Adda a little bit of water. Warm it up in the microwave for 7~8 seconds.
+
+      ![breakfast step 1](pathname:///img/breakfast1.JPG)
+
+2. Adda a little bit of water. Warm it up in the microwave for 7~8 seconds
+
+      ![breakfast step 2](pathname:///img/breakfast2.JPG)
+
 3. Grind one Denosyl pill
+
+      ![breakfast step 3-1](pathname:///img/breakfast3.JPG)
+      ![breakfast step 3-2](pathname:///img/breakfast4.JPG)
+
 4. Mix it in the chicken
+
+      ![breakfast step 4](pathname:///img/breakfast5.JPG)
+
 5. Scoop 3/4 quater cup of the kebbles
+
+      ![breakfast step 5](pathname:///img/breakfast6.JPG)
 
 6. Put the kebbles on top of the chicken
 
+      ![breakfast step 6](pathname:///img/breakfast7.JPG)
+
 7. Break 1/4 of Cerenia tablet
 
+      ![banner](pathname:///img/breakfast8.JPG)
+
 8. Put the Cerenia on top of the food
+
+      ![banner](pathname:///img/breakfast9.JPG)
 
 :::info
 Please make sure she has fresh water in her water bowl
@@ -71,7 +94,11 @@ Here are the steps:
 
 1. Put one full 1/4 cup of kebbles in the bowel.
 
+      ![banner](pathname:///img/lunchdinner1.JPG)
+
 2. That's it!
+
+      ![banner](pathname:///img/lunchdinner2.JPG)
 
 :::info
 Please make sure she has fresh water in her water bowl
@@ -84,3 +111,5 @@ Lola always up for some blueberries after each meal.
 So please feed her 3 to 4 blueberries after breakfast, lunch, and dinner.
 Please also feed her some blueberries in the evening to prevent the stomach problem in the next morning.
 You are also welcome to feed her treats every now and then if she likes it.
+
+![banner](pathname:///img/blueberries.JPG)
